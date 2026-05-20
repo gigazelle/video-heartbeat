@@ -1,6 +1,6 @@
 # Video Heartbeat Library 1.x (Media SDK 1.x)
 
-> **Deprecated.** The 1.x SDK is no longer supported. Migrate to the [2.x SDK](https://github.com/Adobe-Marketing-Cloud/media-sdks/blob/master/docs/2.x/overview.md) or, for new implementations, the [Edge Network](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html).
+> **Deprecated.** This SDK is no longer supported. For current implementations, use the [3.x Media SDK](https://github.com/Adobe-Marketing-Cloud/media-sdks) or [Streaming Media for Edge Network](https://experienceleague.adobe.com/en/docs/media-analytics/using/implementation/edge-recommended/media-edge-sdk/implementation-edge).
 
 Documentation for the 1.x SDK is available in PDF form only.
 
